@@ -24,7 +24,7 @@ def add_tel(path_compare, path_arv,colunm_ddd,colunm_tel):
     ws = wb.active
 
     # =========================================================================
-    # EXTRAT PATHS TO LISTS
+    # EXTRACT PATHS TO LISTS
     # =========================================================================
 
     cpf_compare = []
